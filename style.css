@@ -1,0 +1,36 @@
+html{
+
+/* property: value; */
+background-color: gainsboro;
+
+text-align: center;
+
+/* Organize css alphbetically  */
+
+}
+p{
+    /* border width style color */
+ 
+    /* two ways to delcear space between elements  */
+     
+    
+    /* The edge of the screen and the border margin */
+    
+    margin-left: 20%;
+    margin-right:20%;
+  /* between element and border padding */ 
+    
+    text-align: left;
+
+}
+img{
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+
+}
+
+.MyLink{
+    margin-left: 50%;
+    text-align: justify;
+}
