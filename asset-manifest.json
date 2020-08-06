@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Nick563122/sample-GH-pages/my-app/static/css/main.3839607c.chunk.css",
-    "main.js": "/Nick563122/sample-GH-pages/my-app/static/js/main.252d23e5.chunk.js",
-    "main.js.map": "/Nick563122/sample-GH-pages/my-app/static/js/main.252d23e5.chunk.js.map",
-    "runtime-main.js": "/Nick563122/sample-GH-pages/my-app/static/js/runtime-main.d3ab89d7.js",
-    "runtime-main.js.map": "/Nick563122/sample-GH-pages/my-app/static/js/runtime-main.d3ab89d7.js.map",
-    "static/js/2.54ffdb41.chunk.js": "/Nick563122/sample-GH-pages/my-app/static/js/2.54ffdb41.chunk.js",
-    "static/js/2.54ffdb41.chunk.js.map": "/Nick563122/sample-GH-pages/my-app/static/js/2.54ffdb41.chunk.js.map",
-    "index.html": "/Nick563122/sample-GH-pages/my-app/index.html",
-    "precache-manifest.145ea3f2457eefb485d4fd75f187509e.js": "/Nick563122/sample-GH-pages/my-app/precache-manifest.145ea3f2457eefb485d4fd75f187509e.js",
-    "service-worker.js": "/Nick563122/sample-GH-pages/my-app/service-worker.js",
-    "static/css/main.3839607c.chunk.css.map": "/Nick563122/sample-GH-pages/my-app/static/css/main.3839607c.chunk.css.map",
-    "static/js/2.54ffdb41.chunk.js.LICENSE.txt": "/Nick563122/sample-GH-pages/my-app/static/js/2.54ffdb41.chunk.js.LICENSE.txt"
+    "main.css": "/Nick563122/sample-GH-page/my-app/static/css/main.3839607c.chunk.css",
+    "main.js": "/Nick563122/sample-GH-page/my-app/static/js/main.811b3d94.chunk.js",
+    "main.js.map": "/Nick563122/sample-GH-page/my-app/static/js/main.811b3d94.chunk.js.map",
+    "runtime-main.js": "/Nick563122/sample-GH-page/my-app/static/js/runtime-main.a4420dff.js",
+    "runtime-main.js.map": "/Nick563122/sample-GH-page/my-app/static/js/runtime-main.a4420dff.js.map",
+    "static/js/2.54ffdb41.chunk.js": "/Nick563122/sample-GH-page/my-app/static/js/2.54ffdb41.chunk.js",
+    "static/js/2.54ffdb41.chunk.js.map": "/Nick563122/sample-GH-page/my-app/static/js/2.54ffdb41.chunk.js.map",
+    "index.html": "/Nick563122/sample-GH-page/my-app/index.html",
+    "precache-manifest.eecde993f0f73b2287b8919ab752c8a9.js": "/Nick563122/sample-GH-page/my-app/precache-manifest.eecde993f0f73b2287b8919ab752c8a9.js",
+    "service-worker.js": "/Nick563122/sample-GH-page/my-app/service-worker.js",
+    "static/css/main.3839607c.chunk.css.map": "/Nick563122/sample-GH-page/my-app/static/css/main.3839607c.chunk.css.map",
+    "static/js/2.54ffdb41.chunk.js.LICENSE.txt": "/Nick563122/sample-GH-page/my-app/static/js/2.54ffdb41.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d3ab89d7.js",
+    "static/js/runtime-main.a4420dff.js",
     "static/js/2.54ffdb41.chunk.js",
     "static/css/main.3839607c.chunk.css",
-    "static/js/main.252d23e5.chunk.js"
+    "static/js/main.811b3d94.chunk.js"
   ]
 }
